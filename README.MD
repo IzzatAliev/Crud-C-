@@ -1,5 +1,4 @@
 # DOTNET CRUD
-##
-##
-´dotnet build´
-´dotnet run´
+**run** => 
+`dotnet build`
+`dotnet run`
